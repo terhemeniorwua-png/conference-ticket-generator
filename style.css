@@ -7,7 +7,7 @@ body{
     background-size: cover,auto; 
 }
 .gradient{
-    background: linear-gradient(to right, orange);
+    background: linear-gradient(to right, orange, white);
     background-clip: text;
     color:transparent
 }

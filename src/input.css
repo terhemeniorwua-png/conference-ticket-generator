@@ -2,4 +2,12 @@
 
 
 
+.section{
+    padding-left: 40%;
+    margin-top: 1%;
+    font-size: small;
+}
+h1,h2,h3{
+    font-weight: 600;
+}
 

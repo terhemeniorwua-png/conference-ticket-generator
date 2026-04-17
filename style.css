@@ -1,8 +1,12 @@
 body{
     background-image: url(images/pattern-lines.svg),
     url(images/background-desktop.png);
-    background-position: center;
+    background-position: top, center;
     background-repeat: no-repeat;
     background-clip: initial;
-    background-size: auto;
+    background-size: cover,auto;
 }
+/* .section{
+   margin:auto;
+    
+} */

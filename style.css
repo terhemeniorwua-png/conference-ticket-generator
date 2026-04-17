@@ -1,12 +1,13 @@
 body{
     background-image: url(images/pattern-lines.svg),
     url(images/background-desktop.png);
-    background-position: top, center;
+  background-position: top, center;
     background-repeat: no-repeat;
     background-clip: initial;
-    background-size: cover,auto;
+    background-size: cover,auto; 
 }
-/* .section{
-   margin:auto;
-    
-} */
+.gradient{
+    background: linear-gradient(to right, orange);
+    background-clip: text;
+    color:transparent
+}
